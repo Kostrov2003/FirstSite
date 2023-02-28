@@ -1,3 +1,4 @@
+
 # [Обязательное] Название сайта
 site_name: YaroslavHub
 
@@ -44,7 +45,7 @@ copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom 
 
 # Список использованных плагинов MkDocs
 plugins:
-    - search
+    - search:
     - redirects:
         redirect_maps:
             user-guide/plugins.md: dev-guide/plugins.md
