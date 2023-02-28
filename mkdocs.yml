@@ -38,6 +38,7 @@ nav:
         - DuckDuckGo: https://duckduckgo.com/
     - Support:
         - Rulles: rulles.md
+        - Info: info.md
 
 # Список подключённых расширений для препроцессора языка Markdo
 
