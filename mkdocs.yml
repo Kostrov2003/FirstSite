@@ -1,0 +1,52 @@
+# [Обязательное] Название сайта
+site_name: YaroslavHub
+
+# Базовый адрес сайта
+site_url: https://example.com/
+
+
+# Описание сайта. Добавляется в meta в html-заголовке каждой страницы.
+site_description: Project documentation with Markdown.
+
+# Автор (или авторы) сайта. Добавляется в html-заголовок каждой страницы.
+site_author: Fryazino team
+# Ссылка на репозиторий, в котором хранятся исходные материалы.
+
+repo_name: ВВП
+repo_url: https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+
+site_description: HELLO PEOPLE
+# Относительный путь, который в сочетании со ссылкой на репозиторий (repo_url)
+# и относительным адресом страницы даст адрес, по которому можно вызвать
+# редактор страницы. Для repo_url-ов известных площадок (например,
+# GitHub или GitLab можно оставить пустым - он подставится автоматически)
+edit_uri: ""
+
+# Информация о теме, которая будет применена для сгенерированного сайта.
+# И её параметрах
+
+theme: 'material'
+
+# Структура навигации генерируемого сайта.
+
+nav:
+    - Home: index.md
+    - Search Browser: 
+        - Google: https://www.google.com/?&bih=968&biw=1846&client=ubuntu&hs=PaJ&hl=ru
+        - Yandex: https://dzen.ru/?yredirect=true
+        - DuckDuckGo: https://duckduckgo.com/
+    - Support:
+        - Rulles: rulles.md
+
+# Список подключённых расширений для препроцессора языка Markdo
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>.
+
+# Список использованных плагинов MkDocs
+plugins:
+    - search
+    - redirects:
+        redirect_maps:
+            user-guide/plugins.md: dev-guide/plugins.md
+            user-guide/custom-themes.md: dev-guide/themes.md
+            user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
