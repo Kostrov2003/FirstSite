@@ -8,7 +8,7 @@ classDef class4 fill:#FA8072, color:#FFFFFF
 A(Полезные сайты<br>):::class1 --o B(HABR<br>):::class2
 click B "https://habr.com/ru/all/" _blank
 
-A --* C(Github<br>):::class2
+A --> C(Github<br>):::class2
 click C "https://github.com/" _blank
 
 A --o D(Google<br>):::class2
