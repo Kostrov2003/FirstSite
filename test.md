@@ -14,5 +14,4 @@ A --o F(Topic):::class2
 A --o G(Topic):::class2
 A --o H(Topic):::class2
 A --o I(Topic):::class2
-A --o J(2 #exit):::class
 ```
