@@ -2,7 +2,7 @@
 graph LR
 classDef class1 fill:#191970, color:#fbfdfe
 classDef class2 fill:#7CFC00,color:#FFFFFF
-classDef class3 fill:#8B0000, color:FFFFFF
+classDef class3 fill:#8B0000, color:#FFFFFF
 
 A(Полезные сайты<br>):::class1 --o B(HABR<br>):::class2
 click B "https://habr.com/ru/all/" _blank
