@@ -21,7 +21,7 @@ E --> G(Советы вечной молодости<br>):::class4
 click G "https://www.chita.ru/text/style/2022/07/02/71455076/"
 
 E --> J(TEST<br>):::class4
-click J "Kostrov2003/FirstSite/README.md" _blank
+click J "Kostrov2003/FirstSite/README" _blank
 
 
 ```
