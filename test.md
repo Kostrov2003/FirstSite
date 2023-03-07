@@ -1,5 +1,5 @@
 ```mermaid
-  graph;
+  graph TL;
       A-->B;
       A-->C;
       B-->D;
