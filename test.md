@@ -9,7 +9,7 @@ click B "https://habr.com/ru/all/" _blank
 A --o C(Github<br>):::class2
 click C "https://github.com/" _blank
 
-A -- D(Google<br>):::class2
+A --o D(Google<br>):::class2
 click D "https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwisq9KR38n9AhUQposKHUIPAPgQPAgI" _blank
 
 
