@@ -5,6 +5,6 @@ classDef class2 fill:#7CFC00,color:#FFFFFF
 
 A(Полезные сайты <br>):::class2 --o B(Хабр <br>):::class1
 click B "https://habr.com/ru/company/rostelecom/blog/570098/"
-A --o C(Github <br>):::class1 click B "https://github.com/" 
+A --o C(Github <br>):::class1 CLICK B "https://github.com/" 
 
 ```
