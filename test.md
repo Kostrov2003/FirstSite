@@ -9,9 +9,5 @@ A(1 Привилегированный режим<br>#):::class1 --o B(2 Реж�
 click B "/wiki/CLI/configure_terminal" _blank
 A --o C(#show system integrity):::class2
 A --o D("#show version [detail]"<br> detail - Отобразить все версии установленных пакетов.):::class2
-A --o E(Topic):::class2
-A --o F(Topic):::class2
-A --o G(Topic):::class2
-A --o H(Topic):::class2
-A --o I(Topic):::class2
+
 ```
