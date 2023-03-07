@@ -12,7 +12,7 @@ click C "https://github.com/" _blank
 A --o D(Google<br>):::class2
 click D "https://www.google.com/webhp?hl=ru&sa=X&ved=0ahUKEwisq9KR38n9AhUQposKHUIPAPgQPAgI" _blank
 
-E(Не полезные сайты<br>):::class 1 ---o F(Одноклассники<br>):::class2
+E(Не полезные сайты<br>):::class1 ---o F(Одноклассники<br>):::class2
 click F "https://ok.ru/"
 
 
